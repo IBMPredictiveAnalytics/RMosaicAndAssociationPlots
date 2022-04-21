@@ -4,7 +4,7 @@ Summary: R-based dialog for Mosaic and Association plots
 Description: A dialog box interface for generating mosaic and associat
  ion plots.
 Author: Dr. Hans Grüner, Freie Universität Berlin
-Version: 3.0.1
+Version: 3.0.2
 Product-Version: 18
 Date: 06.03.2012
 Categories: dialog, extension_command, graphics, plots, r, spss, resid
