@@ -1,4 +1,5 @@
 Name: RMosaicAndAssociationPlots
+Display-Name: R-Graphics Mosaic and Association Plots
 Dialog-Specs: RMosaicAndAssociationPlots.spd
 Summary: R-based dialog for Mosaic and Association plots
 Description: A dialog box interface for generating mosaic and associat
